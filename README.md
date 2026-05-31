@@ -46,3 +46,12 @@ CS Engineering Student · Cybersecurity · Morocco
 
 [![Trophies](https://gh-profile-trophy.vercel.app/?username=Sunless-LFL&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake dark](https://raw.githubusercontent.com/Sunless-LFL/Sunless-LFL/output/github-contribution-grid-snake-dark.svg)
+
+</div>
