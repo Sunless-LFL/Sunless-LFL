@@ -7,6 +7,18 @@
 CS Engineering Student · Cybersecurity · Morocco
 
 </div>
+---
+
+### 👨‍💻 About Me
+
+- 🔐 Building ** EDR** — Windows process injection detection via API hooking & ETW
+- 🤖 Building **Project Artemis** — Python voice assistant with ElevenLabs TTS + Groq LLM
+- 🎯 CTF enthusiast — forensics, network analysis
+- 🎓 3rd year CS Engineering @ EMSI Morocco · Cybersecurity track
+- 🌍 Targeting Master's in Computer Engineering · 
+- 💬 Ask me about **Windows internals, EDR architecture, or Python automation**
+
+---
 
 
 ### 🛠️ Tech Stack
