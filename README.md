@@ -29,9 +29,9 @@ CS Engineering Student · Cybersecurity · Morocco
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Sunless-LFL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sunless-LFL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunless-LFL&layout=compact&theme=tokyonight&hide_border=true&hide=Makefile,CMake)
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sunless-LFL&layout=compact&theme=tokyonight&hide_border=true&hide=Makefile,CMake)
 
 [![Streak](https://streak-stats.demolab.com/?user=Sunless-LFL&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
