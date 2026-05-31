@@ -1,11 +1,13 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer+in+training;EDR+%7C+C%2B%2B+%7C+Python+%7C+CTF;Building+secure+systems+from+scratch)](https://git.io/typing-svg)
+
 # Hey, I'm Iyad 👋
 
 CS Engineering Student · Cybersecurity · Morocco
 
 </div>
----
+
 
 ### 🛠️ Tech Stack
 
@@ -34,5 +36,14 @@ CS Engineering Student · Cybersecurity · Morocco
 ![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sunless-LFL&layout=compact&theme=tokyonight&hide_border=true&hide=Makefile,CMake)
 
 [![Streak](https://streak-stats.demolab.com/?user=Sunless-LFL&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Sunless-LFL&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
