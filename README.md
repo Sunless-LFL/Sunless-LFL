@@ -22,3 +22,17 @@ CS Engineering Student · Cybersecurity · Morocco
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Sunless-LFL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunless-LFL&layout=compact&theme=tokyonight&hide_border=true&hide=Makefile,CMake)
+
+[![Streak](https://streak-stats.demolab.com/?user=Sunless-LFL&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
