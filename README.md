@@ -1,33 +1,77 @@
-# Hi, I'm Iyad
+<div align="center">
 
-Fourth-year computer engineering student at **EMSI, Morocco**, focusing on cybersecurity, systems programming, and software development.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer+in+training;C%2B%2B+%7C+Python+%7C+Security+Tools;Building+secure+systems+from+scratch)](https://git.io/typing-svg)
 
-I enjoy understanding how systems work, building tools to inspect their behavior, and making applications that solve practical problems.
+# Hey, I'm Sunless👋
 
-I'm looking for a **two-month internship in Morocco in summer 2027** (provisionally July–August, subject to my university's calendar).
+CS Engineering Student · Cybersecurity · Morocco
 
-## Selected projects
+</div>
+---
 
-| Project | What it explores | Technologies |
-| --- | --- | --- |
-| [Nullbyte](https://github.com/Sunless-LFL/nullbyte) | Command-line security log analysis, detection rules, and reporting | Python, SQLite |
-| [PDF-diddy](https://github.com/Sunless-LFL/PDF-diddy) | Windows process enumeration and monitoring, with an experimental rule engine | C++, Win32 API |
-| [Password Security Analysis Tool](https://github.com/Sunless-LFL/password-security-analysis-tool) | Password search spaces and hash-analysis concepts | C++, OpenSSL |
-| [ReConan](https://github.com/Sunless-LFL/ReConan) | Desktop OSINT investigation and entity relationship visualization | Java, JavaFX, SQL Server |
+### 👨‍💻 About Me
 
-During my 2026 internship, I also worked on **Apollo**, a browser-based prototype for detecting sensitive information before it is submitted to generative AI tools. That internship source code is not public.
+- 🎓 **4th-year Computer Engineering student at EMSI**, specializing in cybersecurity
+- 🔐 Built **Apollo**, a data loss prevention prototype during my 2026 internship (source code kept private)
+- 🖥️ [**PDF-diddy**](https://github.com/Sunless-LFL/PDF-diddy) — Windows process monitoring with C++ and the Win32 API
+- 🛡️ [**Nullbyte**](https://github.com/Sunless-LFL/nullbyte) — Security log analysis and detection with Python
+- 🔎 [**ReConan**](https://github.com/Sunless-LFL/ReConan) — Desktop OSINT investigation platform built with JavaFX
+- 🎯 Looking for a **two-month summer 2027 internship** in cybersecurity, systems, or software development
+- 📫 **[benchagraiyad1@gmail.com](mailto:benchagraiyad1@gmail.com)**
 
-## Technologies
+---
 
-- **Languages:** C, C++, Python, Java, JavaScript, TypeScript, PHP
-- **Development:** FastAPI, React, Laravel, REST APIs, SQL
-- **Systems:** Windows internals and Win32 APIs, Linux, Chrome extensions
-- **Security interests:** process monitoring, data loss prevention, log analysis, and authentication
+### 🛠️ Tech Stack
 
-I'm still learning, and I use these repositories to document both finished exercises and work in progress. Each repository's README explains its current scope.
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Contact
+---
 
-For internship opportunities or project discussions: **[benchagraiyad1@gmail.com](mailto:benchagraiyad1@gmail.com)**
+### 📊 GitHub Stats
 
-French (C1) · English (C2) — self-assessed proficiency
+<div align="center">
+
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sunless-LFL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sunless-LFL&layout=compact&theme=tokyonight&hide_border=true&hide=Makefile,CMake)
+
+[![Streak](https://streak-stats.demolab.com/?user=Sunless-LFL&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+### 📈 Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunless-LFL&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+</div>
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+[![Trophies](https://gh-profile-trophy.vercel.app/?username=Sunless-LFL&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake dark](https://raw.githubusercontent.com/Sunless-LFL/Sunless-LFL/output/github-contribution-grid-snake-dark.svg)
+
+</div>
