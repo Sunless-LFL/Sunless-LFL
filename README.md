@@ -53,18 +53,25 @@ CS Engineering Student · Cybersecurity · Morocco
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunless-LFL&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunless-LFL&theme=tokyonight)](https://github.com/Sunless-LFL?tab=overview&from=2026-01-01&to=2026-12-31)
+
+[View my contribution history on GitHub](https://github.com/Sunless-LFL)
 
 </div>
 
 </div>
 ---
 
-### 🏆 Trophies
+### 🏆 Featured Projects
 
 <div align="center">
 
-[![Trophies](https://gh-profile-trophy.vercel.app/?username=Sunless-LFL&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Nullbyte](https://img.shields.io/badge/Nullbyte-Python%20Security%20Logs-7F77DD?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Sunless-LFL/nullbyte)
+[![ReConan](https://img.shields.io/badge/ReConan-Java%20OSINT-405C9A?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Sunless-LFL/ReConan)
+
+[![PDF-diddy](https://img.shields.io/badge/PDF--diddy-Win32%20Monitor-6246A9?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Sunless-LFL/PDF-diddy)
+[![Password Security](https://img.shields.io/badge/Password%20Security-C%2B%2B%20Research-2E4678?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Sunless-LFL/password-security-analysis-tool)
+
 </div>
 ---
 
