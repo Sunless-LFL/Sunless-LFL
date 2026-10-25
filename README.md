@@ -69,7 +69,7 @@ CS Engineering Student · Cybersecurity · Morocco
 [![Nullbyte](https://img.shields.io/badge/Nullbyte-Python%20Security%20Logs-7F77DD?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Sunless-LFL/nullbyte)
 [![ReConan](https://img.shields.io/badge/ReConan-Java%20OSINT-405C9A?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Sunless-LFL/ReConan)
 
-[![Win32 Process Monitor](https://img.shields.io/badge/PDF--diddy-Win32%20Monitor-6246A9?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Sunless-LFL/PDF-diddy)
+[![Win32 Process Monitor](https://img.shields.io/badge/Win32%20Process%20Monitor-C%2B%2B%20%7C%20Win32-6246A9?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Sunless-LFL/PDF-diddy)
 [![Password Security](https://img.shields.io/badge/Password%20Security-C%2B%2B%20Research-2E4678?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Sunless-LFL/password-security-analysis-tool)
 
 </div>
