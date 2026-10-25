@@ -13,7 +13,7 @@ CS Engineering Student · Cybersecurity · Morocco
 
 - 🎓 **4th-year Computer Engineering student at EMSI**, specializing in cybersecurity
 - 🔐 Built **Apollo**, a data loss prevention prototype during my 2026 internship (source code kept private)
-- 🖥️ [**PDF-diddy**](https://github.com/Sunless-LFL/PDF-diddy) — Windows process monitoring with C++ and the Win32 API
+- 🖥️ [**Win32 Process Monitor**](https://github.com/Sunless-LFL/PDF-diddy) — Windows process monitoring with C++ and the Win32 API
 - 🛡️ [**Nullbyte**](https://github.com/Sunless-LFL/nullbyte) — Security log analysis and detection with Python
 - 🔎 [**ReConan**](https://github.com/Sunless-LFL/ReConan) — Desktop OSINT investigation platform built with JavaFX
 - 🎯 Looking for a **two-month summer 2027 internship** in cybersecurity, systems, or software development
@@ -69,7 +69,7 @@ CS Engineering Student · Cybersecurity · Morocco
 [![Nullbyte](https://img.shields.io/badge/Nullbyte-Python%20Security%20Logs-7F77DD?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Sunless-LFL/nullbyte)
 [![ReConan](https://img.shields.io/badge/ReConan-Java%20OSINT-405C9A?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Sunless-LFL/ReConan)
 
-[![PDF-diddy](https://img.shields.io/badge/PDF--diddy-Win32%20Monitor-6246A9?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Sunless-LFL/PDF-diddy)
+[![Win32 Process Monitor](https://img.shields.io/badge/PDF--diddy-Win32%20Monitor-6246A9?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Sunless-LFL/PDF-diddy)
 [![Password Security](https://img.shields.io/badge/Password%20Security-C%2B%2B%20Research-2E4678?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Sunless-LFL/password-security-analysis-tool)
 
 </div>
